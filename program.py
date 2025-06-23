@@ -2,4 +2,11 @@ print('Я домашка')
 print("Hello world")
 print("@@@")
 i = 3 
-
+print("@@@")
+print("@@@")
+print("@@@")
+print("@@@")
+print("@@@")
+print("@@@")
+print("@@@")
+print("@@@")
